@@ -1,7 +1,7 @@
 # terminal-canvas
 
-A little experiment I did to play with alternative window managemnet strategies. It's a infinite canvas, and you can create as many terminal windows as you want with it.
+A little experiment to play with alternative window mangement strategies. It's a infinite canvas, and you can create as many terminal windows as you want with it. Trying to understand if an infinite scrollable canvas makes a good desktop, instead of having lots of windows crammed into a small space. If you use mostly terminal based applications you can use it as your window manager.
 
-You can use your trackpad / wheel to shift around teh canvas. You can move and resize the windows as well. To create a new terminal window, just click anywhere on the canvas.
+You can use your trackpad / wheel to shift around the canvas. You can move windows, and resize them by using the little red square in the bottom of the window. To create a new terminal window, just click anywhere on the canvas.
 
-> :warning: Using this app will expose your shell unsecured on a websocket server on port 3333
+> :warning: Using this app will expose complete control of your shell unsecured on port 3333
