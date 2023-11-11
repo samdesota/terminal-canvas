@@ -1,0 +1,12 @@
+
+[[language]]
+name = "typescript"
+formatter = { command = "npx", args = ["prettier", "--parser", "typescript"] }
+auto-format = true
+
+
+[[language]]
+name = "tsx"
+formatter = { command = "npx", args = ["prettier", "--parser", "typescript"] }
+auto-format = true
+
